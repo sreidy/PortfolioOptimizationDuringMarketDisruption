@@ -38,7 +38,7 @@ In the future we hope to expand this to look at more data, as the way we selecte
 
 ## Table of Contents
 
-This assignment contains 6 areas:
+This assignment contains 2 areas:
 
 <ol>
   <li><a href=https://github.com/Lwhieldon/PortfolioOptimizationDuringMarketDisruption/blob/main/Files/Project%20Presentation%20-%20Finance%20Data%20Science%20Spring%202022%20.pptx>Presentation:</a> Powerpoint presentation to support the deliverables.</li>
