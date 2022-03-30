@@ -42,7 +42,7 @@ This assignment contains 2 areas:
 
 <ol>
   <li><a href=https://github.com/Lwhieldon/PortfolioOptimizationDuringMarketDisruption/blob/main/Files/Project%20Presentation%20-%20Finance%20Data%20Science%20Spring%202022%20.pptx>Presentation:</a> Powerpoint presentation to support the deliverables.</li>
-  <li><a href=https://github.com/Lwhieldon/PortfolioOptimizationDuringMarketDisruption/blob/main/Files/ProjectNotebook.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
+  <li><a href=https://github.com/Lwhieldon/PortfolioOptimizationDuringMarketDisruption/blob/main/ProjectNotebook.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
 </ol>
 
 <br>
